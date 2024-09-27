@@ -42,8 +42,4 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 ## Démonstration
 
-| Appui sur le bouton Toast | Appui sur le bouton Compter | 
-|--------------------------|----------------------------|
-| ![Toast Button](images/toast.png) | ![Count Button](images/count.png) |
-
-,
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://github.com/ZinebELHALLA/HelloToastConstraintLayout/blob/master/Hello%20toast%20contsraint%20layout.mp4)
