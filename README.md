@@ -25,7 +25,7 @@ Pour exécuter ce projet localement, suivez ces étapes :
 2. Ouvrez le projet dans **Android Studio**.
 3. Laissez Android Studio configurer le projet et télécharger les dépendances nécessaires.
 4. Connectez un appareil Android ou configurez un émulateur Android.
-5. Cliquez sur le bouton **Run** dans Android Studio ou utilisez `Shift + F10` pour compiler et exécuter l'application.
+5. Cliquez sur le bouton **Run** dans Android Studio.
 
 ## Utilisation
 
