@@ -42,4 +42,3 @@ Pour exécuter ce projet localement, suivez ces étapes :
 
 ## Démonstration
 
-[![Watch the video](https://github.com/ZinebELHALLA/HelloToastConstraintLayout/blob/master/thumnail.jpg)](https://github.com/ZinebELHALLA/HelloToastConstraintLayout/blob/master/Hello%20toast%20contsraint%20layout.mp4)
